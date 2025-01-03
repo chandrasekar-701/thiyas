@@ -1,2 +1,0 @@
-this a new file to check git pull
-hi hello how are you boss
